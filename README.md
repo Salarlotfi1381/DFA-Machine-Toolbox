@@ -3,7 +3,7 @@ Here we have a simple DFA machine toolbox with two operations:
 - DFA string detector
 - NFA to DFA conversion
 ### Intro
-This project is a part of Automata & Lanuages Theory course in AmirKabir University of Technology
+This project is a part of Automata & Lanuages Theory course in Persian gulf University of Technology
 
 Let's see how these codes work
 ### How it's work
